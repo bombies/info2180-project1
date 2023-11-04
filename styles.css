@@ -118,6 +118,7 @@ header li a:hover {
 .testing .container {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .testing-desciption {
